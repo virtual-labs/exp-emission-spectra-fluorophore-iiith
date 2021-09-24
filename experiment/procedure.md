@@ -1,4 +1,4 @@
-1. Prepare a 250 mL solution of 6.4 x 10-4M fluorescein in spectroscopy grade methanol. Here it is shown in a volumetric flask.
+1. Prepare a 250 mL solution of 6.4 x 10<sub>-</sub>4M fluorescein in spectroscopy grade methanol. Here it is shown in a volumetric flask.
 2. Take 100 mL of this solution in a beaker and measure the pH of the solution by using a pH-meter. The pH of the methanol solution used here was ~4. Note that prior to pH measurement the pH-meter should be calibrated with appropriate buffer solutions.
 3. Add a few drops of 1 N NaOH solution to the solution in the beaker to raise the solution pH value to ~6.4.
 4. Run the excitation and emission spectra of both pH 4 and 6.4 solutions of fluorescein in methanol.
@@ -33,5 +33,5 @@
 33. For the Emission Spectral Scan of pH 6.4 fluorescein solution: Enter the Excitation wavelength: 490 nm, Emission Start Wavelength: 500 nm and Emission End wavelength: 600 nm. Excitation Slit(nm) and Emission Slit(nm) values are 1.5 nm/1.5 nm and the scan speed value is set to very fast .
 34. Collect all data by clicking on the Data tab.
 35. Find out the excitation maximum, emission maximum wavelengths and intensities for two different pH solutions of fluorescein.
-36. Calculate the excitation and emission fluorescence maxima in wave-number/cm-1 unit and determine the Stokes shifts (in wave-number unit, cm-1) for variation in pH values.
+36. Calculate the excitation and emission fluorescence maxima in wave-number/cm-1 unit and determine the Stokes shifts (in wave-number unit, cm<sub>-1</sub>) for variation in pH values.
 37. Discuss your results.
