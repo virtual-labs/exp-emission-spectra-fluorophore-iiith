@@ -1,0 +1,1 @@
+- To study how the fluorescence excitation and emission spectral characteristics of fluorescein molecule change upon changing the pH of the solution. 
